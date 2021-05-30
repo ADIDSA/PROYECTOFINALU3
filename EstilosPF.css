@@ -1,0 +1,43 @@
+body{
+	background: #A3AFB8;
+	font-family: Century Schoolbook;
+}
+
+h1{
+	color: #EAF6FF;
+	font-family: "Harrington";
+	text-align: center;
+	font-size:20px;
+}
+
+h2{
+	color: lightblue;
+	font-family:Bookman Old Style;
+	text-align: center;
+	font-size: 40px;
+}
+
+h3{
+	color: #FFFFFF;
+	font-family:Century Schoolbook;
+	text-align: center;
+	font-size: 25px;
+}
+ a{
+ 	font-family: Castellar;
+ }
+
+p{
+	font-family: :Century Schoolbook;
+	text-align: center;
+	font-size: 15px;
+
+}
+input{
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times;;
+	font-size:15px;
+	color:blue;
+	text-align:center;
+	font-style:  italic;
+}
+}
